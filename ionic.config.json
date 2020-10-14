@@ -1,0 +1,7 @@
+{
+  "name": "OneMore",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
