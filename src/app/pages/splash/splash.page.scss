@@ -1,0 +1,58 @@
+  .overlay{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1000;
+    width: 100%;
+
+  }
+  .casa{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 100px;
+
+  }
+  .bienvenida{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: black;
+    padding-top: 10px;
+    background-color: #ffd948;
+    border: 2px solid black;
+    padding: 1px;
+    text-align: center;
+    margin: 20px 5px;
+    border-radius: 10px 20px 10px 20px;
+
+
+  }
+  .inner{
+    background-color: white;
+    height: 55%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    img{
+      height: 80px;
+      width: 100px;
+      position: absolute;
+      margin-top: -50%;
+
+    }
+
+    h2{
+      font-family: -apple-system;
+      font-size: 2em;
+      color: black;
+      font-weight: 200;
+      height: 100px;
+    }
+
+  }
+
